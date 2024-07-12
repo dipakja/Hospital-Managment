@@ -11,6 +11,10 @@ A console-based application built with Java, JDBC, and MySQL to manage hospital 
 ## Database Schema
 The database consists of tables such as PATIENTS, DOCTORS, APPOINTMENTS, and DEPARTMENTS, with relationships defined to maintain data integrity.
 
+
+<img src="src\HospitalManagement\dbSchema\dbSchema.jpg" alt="DB schema" width="500" height="600">
+
+
 ## How to Run
 clone the repo by forking it.
 
